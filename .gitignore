@@ -1,0 +1,12 @@
+lok_sabha.xlsx
+candidates_clean.csv
+winners_clean.csv
+margins_clean.csv
+turnout_clean.csv
+nota_clean.csv
+candidates_part1.csv
+candidates_part2.csv
+*.pyc
+__pycache__/
+.env
+.DS_Store
