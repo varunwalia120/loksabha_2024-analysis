@@ -1,4 +1,3 @@
-# loksabha_2024-analysis
 # Lok Sabha 2024 Election Analysis
 
 Data analytics project analyzing Indian General Election 2024 results.
