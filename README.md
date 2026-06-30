@@ -3,7 +3,7 @@
 Data analytics project analyzing Indian General Election 2024 results.
 
 ## Stack
-Python → MySQL → Power BI
+Python → MySQL → Tableau
 
 ## Data Source
 Election Commission of India — Statistical Reports
