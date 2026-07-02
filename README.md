@@ -17,3 +17,7 @@ https://www.eci.gov.in/general-election-to-loksabha-2024-statistical-reports
 
 ## Questions Being Answered
 12 analytical questions on 2024 results + 3 comparative questions vs 2019
+
+## Dashboard
+View the interactive Tableau dashboard:
+[Lok Sabha 2024 - General Election Analysis](https://public.tableau.com/app/profile/varun.walia6110/viz/LokSabha2024GeneralElectionAnalysis/LokSabha2024GeneralElectionAnalysis)
